@@ -361,4 +361,4 @@ document.querySelectorAll('.btn-primary').forEach(btn => {
     }
 });
 
-console.log('✨ TrivaToken.ai - Website initialized successfully!');
+console.log('✨ Triva Aneesh - Website initialized successfully!');
